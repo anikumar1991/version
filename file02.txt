@@ -1,4 +1,4 @@
 Reset change  in unstaging
 
-change01
+change01 new change
 chnage 02
